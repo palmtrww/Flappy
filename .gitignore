@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Flappy
+data/secrets/flappytoken.txt
+data/db/database.db
+
 # Distribution / packaging
 .Python
 build/

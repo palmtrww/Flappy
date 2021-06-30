@@ -1,0 +1,1 @@
+from .flappy import Flappy
